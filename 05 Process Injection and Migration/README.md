@@ -1,0 +1,21 @@
+## Syllabus
+
+- [ ] 05 Process Injection and Migration
+  - [ ] 05.1 Finding a Home for Our Shellcode
+    - [ ] 05.1.1 Process Injection and Migration Theory
+    - [ ] 05.1.2 Process Injection in C#
+      - [ ] 05.1.2.1 Exercises
+      - [ ] 05.1.2.2 Extra Mile
+    - [ ] 05.2 DLL Injection
+      - [ ] 05.2.1 DLL Injection Theory
+      - [ ] 05.2.2 DLL Injection with C#
+        - [ ] 05.2.2.1 Exercise
+    - [ ] 05.3 Reflective DLL Injection
+      - [ ] 05.3.1 Reflective DLL Injection Theory
+      - [ ] 05.3.2 Reflective DLL Injection in PowerShell
+        - [ ] 05.3.2.1 Exercises
+    - [ ] 05.4 Process Hollowing
+      - [ ] 05.4.1 Process Hollowing Theory
+      - [ ] 05.4.2 Process Hollowing in C#
+        - [ ] 05.4.2.1 Exercises
+    - [ ] 05.5 Wrapping Up

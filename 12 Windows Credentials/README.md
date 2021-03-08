@@ -1,0 +1,25 @@
+## Syllabus
+
+- [ ] 12 Windows Credentials
+  - [ ] 12.1 Local Windows Credentials
+    - [ ] 12.1.1 SAM Database
+      - [ ] 12.1.1.1 Exercises
+    - [ ] 12.1.2 Hardening the Local Administrator Account
+      - [ ] 12.1.2.1 Exercises
+  - [ ] 12.2 Access Tokens
+    - [ ] 12.2.1 Access Token Theory
+      - [ ] 12.2.1.1 Exercise
+    - [ ] 12.2.2 Elevation with Impersonation
+      - [ ] 12.2.2.1 Exercises
+    - [ ] 12.2.3 Fun with Incognito
+      - [ ] 12.2.3.1 Exercise
+  - [ ] 12.3 Kerberos and Domain Credentials
+    - [ ] 12.3.1 Kerberos Authentication
+    - [ ] 12.3.2 Mimikatz
+      - [ ] 12.3.2.1 Exercises
+  - [ ] 12.4 Processing Credentials Offline
+    - [ ] 12.4.1 Memory Dump
+      - [ ] 12.4.1.1 Exercises
+    - [ ] 12.4.2 MiniDumpWriteDump
+      - [ ] 12.4.2.1 Exercises
+  - [ ] 12.5 Wrapping Up

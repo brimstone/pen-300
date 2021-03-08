@@ -1,0 +1,34 @@
+## Syllabus
+
+- [ ] 07 Advanced Antivirus Evasion
+  - [ ] 07.1 Intel Architecture and Windows 10
+    - [ ] 07.1.1 WinDbg Introduction
+      - [ ] 07.1.1.1 Exercises
+  - [ ] 07.2 Antimalware Scan Interface
+    - [ ] 07.2.1 Understanding AMSI
+    - [ ] 07.2.2 Hooking with Frida
+      - [ ] 07.2.2.1 Exercises
+  - [ ] 07.3 Bypassing AMSI With Reflection in PowerShell
+    - [ ] 07.3.1 What Context Mom?
+      - [ ] 07.3.1.1 Exercises
+    - [ ] 07.3.2 Attacking Initialization
+      - [ ] 07.3.2.1 Exercise
+  - [ ] 07.4 Wrecking AMSI in PowerShell
+    - [ ] 07.4.1 Understanding the Assembly Flow
+      - [ ] 07.4.1.1 Exercises
+    - [ ] 07.4.2 Patching the Internals
+      - [ ] 07.4.2.1 Exercises
+      - [ ] 07.4.2.2 Extra Mile Exercise
+  - [ ] 07.5 UAC Bypass vs Microsoft Defender
+    - [ ] 07.5.1 FodHelper UAC Bypass
+      - [ ] 07.5.1.1 Exercises
+    - [ ] 07.5.2 Improving Fodhelper
+      - [ ] 07.5.2.1 Exercises
+  - [ ] 07.6 Bypassing AMSI in JScript
+    - [ ] 07.6.1 Detecting the AMSI API Flow
+      - [ ] 07.6.1.1 Exercise
+    - [ ] 07.6.2 Is That Your Registry Key?
+      - [ ] 07.6.2.1 Exercises
+    - [ ] 07.6.3 I Am My Own Executable
+      - [ ] 07.6.3.1 Exercises
+  - [ ] 07.7 Wrapping Up

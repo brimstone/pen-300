@@ -1,0 +1,44 @@
+## Syllabus
+
+- [ ] 08 Application Whitelisting
+  - [ ] 08.1 Application Whitelisting Theory and Setup
+    - [ ] 08.1.1 Application Whitelisting Theory
+    - [ ] 08.1.2 AppLocker Setup and Rules
+      - [ ] 08.1.2.1 Exercises
+  - [ ] 08.2 Basic Bypasses
+    - [ ] 08.2.1 Trusted Folders
+      - [ ] 08.2.1.1 Exercises
+    - [ ] 08.2.2 Bypass With DLLs
+      - [ ] 08.2.2.1 Exercises
+      - [ ] 08.2.2.2 Extra Mile
+    - [ ] 08.2.3 Alternate Data Streams
+      - [ ] 08.2.3.1 Exercises
+    - [ ] 08.2.4 Third Party Execution
+      - [ ] 08.2.4.1 Exercise
+  - [ ] 08.3 Bypassing AppLocker with PowerShell
+    - [ ] 08.3.1 PowerShell Constrained Language Mode
+      - [ ] 08.3.1.1 Exercises
+    - [ ] 08.3.2 Custom Runspaces
+      - [ ] 08.3.2.1 Exercises
+    - [ ] 08.3.3 PowerShell CLM Bypass
+      - [ ] 08.3.3.1 Exercises
+    - [ ] 08.3.4 Reflective Injection Returns
+      - [ ] 08.3.4.1 Exercise
+  - [ ] 08.4 Bypassing AppLocker with C#
+    - [ ] 08.4.1 Locating a Target
+    - [ ] 08.4.2 Reverse Engineering for Load
+      - [ ] 08.4.2.1 Exercises
+    - [ ] 08.4.3 Give Me Code Exec
+      - [ ] 08.4.3.1 Exercise
+    - [ ] 08.4.4 Invoking the Target Part 1
+      - [ ] 08.4.4.1 Exercises
+    - [ ] 08.4.5 Invoking the Target Part 2
+      - [ ] 08.4.5.1 Exercises
+      - [ ] 08.4.5.2 Extra Mile
+  - [ ] 08.5 Bypassing AppLocker with JScript
+    - [ ] 08.5.1 JScript and MSHTA
+      - [ ] 08.5.1.1 Exercises
+    - [ ] 08.5.2 XSL Transform
+      - [ ] 08.5.2.1 Exercises
+      - [ ] 08.5.2.2 Extra Mile
+  - [ ] 08.6 Wrapping Up

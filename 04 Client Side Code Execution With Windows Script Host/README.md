@@ -1,0 +1,26 @@
+## Syllabus
+
+- [ ] 04 Client Side Code Execution With Windows Script Host
+  - [ ] 04.1 Creating a Basic Dropper in Jscript
+    - [ ] 04.1.1 Execution of Jscript on Windows
+      - [ ] 04.1.1.1 Exercises
+    - [ ] 04.1.2 Jscript Meterpreter Dropper
+      - [ ] 04.1.2.1 Exercises
+  - [ ] 04.2 Jscript and C#
+    - [ ] 04.2.1 Introduction to Visual Studio
+      - [ ] 04.2.1.1 Exercises
+    - [ ] 04.2.2 DotNetToJscript
+      - [ ] 04.2.2.1 Exercises
+    - [ ] 04.2.3 Win32 API Calls From C#
+      - [ ] 04.2.3.1 Exercise
+    - [ ] 04.2.4 Shellcode Runner in C#
+      - [ ] 04.2.4.1 Exercise
+    - [ ] 04.2.5 Jscript Shellcode Runner
+      - [ ] 04.2.5.1 Exercises
+      - [ ] 04.2.5.2 Extra Mile
+    - [ ] 04.2.6 SharpShooter
+      - [ ] 04.2.6.1 Exercises
+  - [ ] 04.3 In-memory PowerShell Revisited
+    - [ ] 04.3.1 Reflective Load
+      - [ ] 04.3.1.1 Exercises
+  - [ ] 04.4 Wrapping Up

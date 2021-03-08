@@ -1,0 +1,468 @@
+# Offensive Security PEN-300
+## Evasion Techniques and Breaching Defenses
+Collection of resources used in prep for OSEP, including course material progress.
+
+## Extracurricular Prep and Resources
+- Learning C#
+  - https://github.com/mvelazc0/defcon27_csharp_workshop
+  - https://cryptopals.com/
+- Powershell
+  - [Accessing the Windows API in PowerShell via internal .NET methods and reflection](http://www.exploit-monday.com/2012_05_13_archive.html)
+- AMSI
+  - https://amsi.fail/
+- Process Injection
+  - [BH 2019 Process Injection](https://i.blackhat.com/USA-19/Thursday/us-19-Kotler-Process-Injection-Techniques-Gotta-Catch-Them-All-wp.pdf)
+- Talks, etc.
+  - [Move Aside, Script Kiddies by Joff Thyer](https://www.blackhillsinfosec.com/wp-content/uploads/2020/12/SLIDES_MoveAsideScriptKiddies.pdf)
+    - Great info on bypassing some defenses. I thought some of his AMSI info was good.
+
+## Course Progress
+- [ ] Videos
+- [ ] Read course content
+- [ ] Complete all exercises
+- [ ] Complete extra miles
+- [ ] Complete labs
+
+- [ ] 01 Evasion Techniques and Breaching Defenses: General Course Information
+  - [ ] 01.1 About The PEN-300 Course
+  - [ ] 01.2 Provided Material
+  - [ ] 01.3 Overall Strategies for Approaching the Course
+  - [ ] 01.4 About the PEN-300 VPN Lab
+  - [ ] 01.5 About the OSEP Exam
+  - [ ] 01.6 Wrapping Up
+- [ ] 02 Operating System and Programming Theory
+  - [ ] 02.1 Programming Theory
+    - [ ] 02.1.1 Programming Language Level
+    - [ ] 02.1.2 Programming Concepts
+  - [ ] 02.2 Windows Concepts
+    - [ ] 02.2.1 Windows on Windows
+    - [ ] 02.2.2 Win32 APIs
+    - [ ] 02.2.3 Windows Registry
+  - [ ] 02.3 Wrapping Up
+- [ ] 03 Client Side Execution With Office
+  - [ ] 03.1 Will You Be My Dropper
+    - [ ] 03.1.1 Staged vs. Non-Staged Payloads
+    - [ ] 03.1.2 Building Our Droppers
+      - [ ] 03.1.2.1 Exercise
+    - [ ] 03.1.3 HTML Smuggling
+      - [ ] 03.1.3.1 Exercises
+  - [ ] 03.2 Phishing With Microsoft Office
+    - [ ] 03.2.1 Installing Microsoft Office
+      - [ ] 03.2.1.1 Exercise
+    - [ ] 03.2.2 Introduction to VBA
+      - [ ] 03.2.2.1 Exercises
+    - [ ] 03.2.3 Let PowerShell Help Us
+      - [ ] 03.2.3.1 Exercises
+  - [ ] 03.3 Keeping Up Appearances
+    - [ ] 03.3.1 Phishing PreTexting
+    - [ ] 03.3.2 The Old Switcheroo
+      - [ ] 03.3.2.1 Exercises
+  - [ ] 03.4 Executing Shellcode in Word Memory
+    - [ ] 03.4.1 Calling Win32 APIs from VBA
+      - [ ] 03.4.1.1 Exercises
+    - [ ] 03.4.2 VBA Shellcode Runner
+      - [ ] 03.4.2.1 Exercise
+  - [ ] 03.5 PowerShell Shellcode Runner
+    - [ ] 03.5.1 Calling Win32 APIs from PowerShell
+      - [ ] 03.5.1.1 Exercises
+    - [ ] 03.5.2 Porting Shellcode Runner to PowerShell
+      - [ ] 03.5.2.1 Exercises
+  - [ ] 03.6 Keep That PowerShell in Memory
+    - [ ] 03.6.1 Add-Type Compilation
+      - [ ] 03.6.1.1 Exercises
+    - [ ] 03.6.2 Leveraging UnsafeNativeMethods
+      - [ ] 03.6.2.1 Exercises
+    - [ ] 03.6.3 DelegateType Reflection
+      - [ ] 03.6.3.1 Exercises
+    - [ ] 03.6.4 Reflection Shellcode Runner in PowerShell
+      - [ ] 03.6.4.1 Exercises
+  - [ ] 03.7 Talking To The Proxy
+    - [ ] 03.7.1 PowerShell Proxy-Aware Communication
+      - [ ] 03.7.1.1 Exercises
+    - [ ] 03.7.2 Fiddling With The User-Agent
+      - [ ] 03.7.2.1 Exercises
+    - [ ] 03.7.3 Give Me A SYSTEM Proxy
+      - [ ] 03.7.3.1 Exercise
+  - [ ] 03.8 Wrapping Up
+- [ ] 04 Client Side Code Execution With Windows Script Host
+  - [ ] 04.1 Creating a Basic Dropper in Jscript
+    - [ ] 04.1.1 Execution of Jscript on Windows
+      - [ ] 04.1.1.1 Exercises
+    - [ ] 04.1.2 Jscript Meterpreter Dropper
+      - [ ] 04.1.2.1 Exercises
+  - [ ] 04.2 Jscript and C#
+    - [ ] 04.2.1 Introduction to Visual Studio
+      - [ ] 04.2.1.1 Exercises
+    - [ ] 04.2.2 DotNetToJscript
+      - [ ] 04.2.2.1 Exercises
+    - [ ] 04.2.3 Win32 API Calls From C#
+      - [ ] 04.2.3.1 Exercise
+    - [ ] 04.2.4 Shellcode Runner in C#
+      - [ ] 04.2.4.1 Exercise
+    - [ ] 04.2.5 Jscript Shellcode Runner
+      - [ ] 04.2.5.1 Exercises
+      - [ ] 04.2.5.2 Extra Mile
+    - [ ] 04.2.6 SharpShooter
+      - [ ] 04.2.6.1 Exercises
+  - [ ] 04.3 In-memory PowerShell Revisited
+    - [ ] 04.3.1 Reflective Load
+      - [ ] 04.3.1.1 Exercises
+  - [ ] 04.4 Wrapping Up
+- [ ] 05 Process Injection and Migration
+  - [ ] 05.1 Finding a Home for Our Shellcode
+    - [ ] 05.1.1 Process Injection and Migration Theory
+    - [ ] 05.1.2 Process Injection in C#
+      - [ ] 05.1.2.1 Exercises
+      - [ ] 05.1.2.2 Extra Mile
+    - [ ] 05.2 DLL Injection
+      - [ ] 05.2.1 DLL Injection Theory
+      - [ ] 05.2.2 DLL Injection with C#
+        - [ ] 05.2.2.1 Exercise
+    - [ ] 05.3 Reflective DLL Injection
+      - [ ] 05.3.1 Reflective DLL Injection Theory
+      - [ ] 05.3.2 Reflective DLL Injection in PowerShell
+        - [ ] 05.3.2.1 Exercises
+    - [ ] 05.4 Process Hollowing
+      - [ ] 05.4.1 Process Hollowing Theory
+      - [ ] 05.4.2 Process Hollowing in C#
+        - [ ] 05.4.2.1 Exercises
+    - [ ] 05.5 Wrapping Up
+- [ ] 06 Introduction to Antivirus Evasion
+  - [ ] 06.1 Antivirus Software Overview
+  - [ ] 06.2 Simulating the Target Environment
+  - [ ] 06.3 Locating Signatures in Files
+      - [ ] 06.3.1.1 Exercise
+  - [ ] 06.4 Bypassing Antivirus with Metasploit
+    - [ ] 06.4.1 Metasploit Encoders
+      - [ ] 06.4.1.1 Exercise
+    - [ ] 06.4.2 Metasploit Encryptors
+      - [ ] 06.4.2.1 Exercises
+  - [ ] 06.5 Bypassing Antivirus with C#
+    - [ ] 06.5.1 C# Shellcode Runner vs Antivirus
+      - [ ] 06.5.1.1 Exercises
+    - [ ] 06.5.2 Encrypting the C# Shellcode Runner
+      - [ ] 06.5.2.1 Exercises
+  - [ ] 06.6 Messing with Our Behavior
+    - [ ] 06.6.1 Simple Sleep Timers
+      - [ ] 06.6.1.1 Exercises
+    - [ ] 06.6.2 Non-emulated APIs
+      - [ ] 06.6.2.1 Exercises
+  - [ ] 06.7 Office Please Bypass Antivirus
+    - [ ] 06.7.1 Bypassing Antivirus in VBA
+      - [ ] 06.7.1.1 Exercises
+    - [ ] 06.7.2 Stomping On Microsoft Word
+      - [ ] 06.7.2.1 Exercises
+  - [ ] 06.8 Hiding PowerShell Inside VBA
+    - [ ] 06.8.1 Detection of PowerShell Shellcode Runner
+      - [ ] 06.8.1.1 Exercises
+    - [ ] 06.8.2 Dechaining with WMI
+      - [ ] 06.8.2.1 Exercises
+    - [ ] 06.8.3 Obfuscating VBA
+      - [ ] 06.8.3.1 Exercises
+      - [ ] 06.8.3.2 Extra Mile Exercise
+  - [ ] 06.9 Wrapping Up
+- [ ] 07 Advanced Antivirus Evasion
+  - [ ] 07.1 Intel Architecture and Windows 10
+    - [ ] 07.1.1 WinDbg Introduction
+      - [ ] 07.1.1.1 Exercises
+  - [ ] 07.2 Antimalware Scan Interface
+    - [ ] 07.2.1 Understanding AMSI
+    - [ ] 07.2.2 Hooking with Frida
+      - [ ] 07.2.2.1 Exercises
+  - [ ] 07.3 Bypassing AMSI With Reflection in PowerShell
+    - [ ] 07.3.1 What Context Mom?
+      - [ ] 07.3.1.1 Exercises
+    - [ ] 07.3.2 Attacking Initialization
+      - [ ] 07.3.2.1 Exercise
+  - [ ] 07.4 Wrecking AMSI in PowerShell
+    - [ ] 07.4.1 Understanding the Assembly Flow
+      - [ ] 07.4.1.1 Exercises
+    - [ ] 07.4.2 Patching the Internals
+      - [ ] 07.4.2.1 Exercises
+      - [ ] 07.4.2.2 Extra Mile Exercise
+  - [ ] 07.5 UAC Bypass vs Microsoft Defender
+    - [ ] 07.5.1 FodHelper UAC Bypass
+      - [ ] 07.5.1.1 Exercises
+    - [ ] 07.5.2 Improving Fodhelper
+      - [ ] 07.5.2.1 Exercises
+  - [ ] 07.6 Bypassing AMSI in JScript
+    - [ ] 07.6.1 Detecting the AMSI API Flow
+      - [ ] 07.6.1.1 Exercise
+    - [ ] 07.6.2 Is That Your Registry Key?
+      - [ ] 07.6.2.1 Exercises
+    - [ ] 07.6.3 I Am My Own Executable
+      - [ ] 07.6.3.1 Exercises
+  - [ ] 07.7 Wrapping Up
+- [ ] 08 Application Whitelisting
+  - [ ] 08.1 Application Whitelisting Theory and Setup
+    - [ ] 08.1.1 Application Whitelisting Theory
+    - [ ] 08.1.2 AppLocker Setup and Rules
+      - [ ] 08.1.2.1 Exercises
+  - [ ] 08.2 Basic Bypasses
+    - [ ] 08.2.1 Trusted Folders
+      - [ ] 08.2.1.1 Exercises
+    - [ ] 08.2.2 Bypass With DLLs
+      - [ ] 08.2.2.1 Exercises
+      - [ ] 08.2.2.2 Extra Mile
+    - [ ] 08.2.3 Alternate Data Streams
+      - [ ] 08.2.3.1 Exercises
+    - [ ] 08.2.4 Third Party Execution
+      - [ ] 08.2.4.1 Exercise
+  - [ ] 08.3 Bypassing AppLocker with PowerShell
+    - [ ] 08.3.1 PowerShell Constrained Language Mode
+      - [ ] 08.3.1.1 Exercises
+    - [ ] 08.3.2 Custom Runspaces
+      - [ ] 08.3.2.1 Exercises
+    - [ ] 08.3.3 PowerShell CLM Bypass
+      - [ ] 08.3.3.1 Exercises
+    - [ ] 08.3.4 Reflective Injection Returns
+      - [ ] 08.3.4.1 Exercise
+  - [ ] 08.4 Bypassing AppLocker with C#
+    - [ ] 08.4.1 Locating a Target
+    - [ ] 08.4.2 Reverse Engineering for Load
+      - [ ] 08.4.2.1 Exercises
+    - [ ] 08.4.3 Give Me Code Exec
+      - [ ] 08.4.3.1 Exercise
+    - [ ] 08.4.4 Invoking the Target Part 1
+      - [ ] 08.4.4.1 Exercises
+    - [ ] 08.4.5 Invoking the Target Part 2
+      - [ ] 08.4.5.1 Exercises
+      - [ ] 08.4.5.2 Extra Mile
+  - [ ] 08.5 Bypassing AppLocker with JScript
+    - [ ] 08.5.1 JScript and MSHTA
+      - [ ] 08.5.1.1 Exercises
+    - [ ] 08.5.2 XSL Transform
+      - [ ] 08.5.2.1 Exercises
+      - [ ] 08.5.2.2 Extra Mile
+  - [ ] 08.6 Wrapping Up
+- [ ] 09 Bypassing Network Filters
+  - [ ] 09.1 DNS Filters
+    - [ ] 09.1.1 DNS Filters
+      - [ ] 09.1.1.1 Exercises
+    - [ ] 09.1.2 Dealing with DNS Filters
+      - [ ] 09.1.2.1 Exercise
+  - [ ] 09.2 Web Proxies
+    - [ ] 09.2.1 Bypassing Web Proxies
+      - [ ] 09.2.1.1 Exercises
+  - [ ] 09.3 IDS and IPS Sensors
+    - [ ] 09.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
+      - [ ] 09.3.1.1 Exercises
+  - [ ] 09.4 Full Packet Capture Devices
+  - [ ] 09.5 HTTPS Inspection
+  - [ ] 09.6 Domain Fronting
+    - [ ] 09.6.1 Domain Fronting with Azure CDN
+      - [ ] 09.6.1.1 Exercise
+      - [ ] 09.6.1.2 Extra Mile
+    - [ ] 09.6.2 Domain Fronting in the Lab
+      - [ ] 09.6.2.1 Exercises
+      - [ ] 09.6.2.2 Extra Mile
+  - [ ] 09.7 DNS Tunneling
+    - [ ] 09.7.1 How DNS Tunneling Works
+    - [ ] 09.7.2 DNS Tunneling with dnscat2
+      - [ ] 09.7.2.1 Exercises
+  - [ ] 09.8 Wrapping Up
+- [ ] 10 Linux Post-Exploitation
+  - [ ] 10.1 User Configuration Files
+    - [ ] 10.1.1 VIM Config Simple Backdoor
+      - [ ] 10.1.1.1 Exercises
+      - [ ] 10.1.1.2 Extra Mile
+    - [ ] 10.1.2 VIM Config Simple Keylogger
+      - [ ] 10.1.2.1 Exercises
+  - [ ] 10.2 Bypassing AV
+    - [ ] 10.2.1 Kaspersky Endpoint Security
+    - [ ] 10.2.2 Antiscan.me
+      - [ ] 10.2.2.1 Exercises
+      - [ ] 10.2.2.2 Extra Mile
+  - [ ] 10.3 Shared Libraries
+    - [ ] 10.3.1 How Shared Libraries Work on Linux
+    - [ ] 10.3.2 Shared Library Hijacking via LD_LIBRARY_PATH
+      - [ ] 10.3.2.1 Exercises
+      - [ ] 10.3.2.2 Extra Mile
+    - [ ] 10.3.3 Exploitation via LD_PRELOAD
+      - [ ] 10.3.3.1 Exercises
+  - [ ] 10.4 Wrapping Up
+- [ ] 11 Kiosk Breakouts
+  - [ ] 11.1 Kiosk Enumeration
+    - [ ] 11.1.1 Kiosk Browser Enumeration
+      - [ ] 11.1.1.1 Exercises
+  - [ ] 11.2 Command Execution
+    - [ ] 11.2.1 Exploring the Filesystem
+    - [ ] 11.2.2 Leveraging Firefox Profiles
+    - [ ] 11.2.3 Enumerating System Information
+    - [ ] 11.2.4 Scratching the Surface
+      - [ ] 11.2.4.1 Exercises
+      - [ ] 11.2.4.2 Extra Mile
+  - [ ] 11.3 Post-Exploitation
+    - [ ] 11.3.1 Simulating an Interactive Shell
+      - [ ] 11.3.1.1 Exercises
+      - [ ] 11.3.1.2 Extra Mile
+  - [ ] 11.4 Privilege Escalation
+    - [ ] 11.4.1 Thinking Outside the Box
+    - [ ] 11.4.2 Root Shell at the Top of the Hour
+    - [ ] 11.4.3 Getting Root Terminal Access
+      - [ ] 11.4.3.1 Exercises
+  - [ ] 11.5 Windows Kiosk Breakout Techniques
+    - [ ] 11.5.1 Windows Kiosk Breakout Techniques
+      - [ ] 11.5.1.1 Exercises
+  - [ ] 11.6 Wrapping Up
+- [ ] 12 Windows Credentials
+  - [ ] 12.1 Local Windows Credentials
+    - [ ] 12.1.1 SAM Database
+      - [ ] 12.1.1.1 Exercises
+    - [ ] 12.1.2 Hardening the Local Administrator Account
+      - [ ] 12.1.2.1 Exercises
+  - [ ] 12.2 Access Tokens
+    - [ ] 12.2.1 Access Token Theory
+      - [ ] 12.2.1.1 Exercise
+    - [ ] 12.2.2 Elevation with Impersonation
+      - [ ] 12.2.2.1 Exercises
+    - [ ] 12.2.3 Fun with Incognito
+      - [ ] 12.2.3.1 Exercise
+  - [ ] 12.3 Kerberos and Domain Credentials
+    - [ ] 12.3.1 Kerberos Authentication
+    - [ ] 12.3.2 Mimikatz
+      - [ ] 12.3.2.1 Exercises
+  - [ ] 12.4 Processing Credentials Offline
+    - [ ] 12.4.1 Memory Dump
+      - [ ] 12.4.1.1 Exercises
+    - [ ] 12.4.2 MiniDumpWriteDump
+      - [ ] 12.4.2.1 Exercises
+  - [ ] 12.5 Wrapping Up
+- [ ] 13 Windows Lateral Movement
+  - [ ] 13.1 Remote Desktop Protocol
+    - [ ] 13.1.1 Lateral Movement with RDP
+      - [ ] 13.1.1.1 Exercises
+    - [ ] 13.1.2 Reverse RDP Proxying with Metasploit
+      - [ ] 13.1.2.1 Exercise
+    - [ ] 13.1.3 Reverse RDP Proxying with Chisel
+      - [ ] 13.1.3.1 Exercise
+    - [ ] 13.1.4 RDP as a Console
+      - [ ] 13.1.4.1 Exercise
+    - [ ] 13.1.5 Stealing Clear Text Credentials from RDP
+      - [ ] 13.1.5.1 Exercises
+  - [ ] 13.2 Fileless Lateral Movement
+    - [ ] 13.2.1 Authentication and Execution Theory
+    - [ ] 13.2.2 Implementing Fileless Lateral Movement in C#
+      - [ ] 13.2.2.1 Exercises
+  - [ ] 13.3 Wrapping Up
+- [ ] 14 Linux Lateral Movement
+  - [ ] 14.1 Lateral Movement with SSH
+    - [ ] 14.1.1 SSH Keys
+    - [ ] 14.1.2 SSH Persistence
+      - [ ] 14.1.2.1 Exercises
+    - [ ] 14.1.3 SSH Hijacking with ControlMaster
+    - [ ] 14.1.4 SSH Hijacking Using SSH-Agent and SSH Agent Forwarding
+      - [ ] 14.1.4.1 Exercises
+  - [ ] 14.2 DevOps
+    - [ ] 14.2.01 Introduction to Ansible
+    - [ ] 14.2.02 Enumerating Ansible
+    - [ ] 14.2.03 Ad-hoc Commands
+    - [ ] 14.2.04 Ansible Playbooks
+    - [ ] 14.2.05 Exploiting Playbooks for Ansible Credentials
+    - [ ] 14.2.06 Weak Permissions on Ansible Playbooks
+    - [ ] 14.2.07 Sensitive Data Leakage via Ansible Modules
+      - [ ] 14.2.07.1 Exercises
+    - [ ] 14.2.08 Introduction to Artifactory
+    - [ ] 14.2.09 Artifactory Enumeration
+    - [ ] 14.2.10 Compromising Artifactory Backups
+    - [ ] 14.2.11 Compromising Artifactory’s Database
+    - [ ] 14.2.12 Adding a Secondary Artifactory Admin Account
+      - [ ] 14.2.12.1 Exercises
+  - [ ] 14.3 Kerberos on Linux
+    - [ ] 14.3.1 General Introduction to Kerberos on Linux
+    - [ ] 14.3.2 Stealing Keytab Files
+      - [ ] 14.3.2.1 Exercise
+    - [ ] 14.3.3 Attacking Using Credential Cache Files
+    - [ ] 14.3.4 Using Kerberos with Impacket
+      - [ ] 14.3.4.1 Exercises
+      - [ ] 14.3.4.2 Extra Mile
+  - [ ] 14.4 Wrapping Up
+- [ ] 15 Microsoft SQL Attacks
+  - [ ] 15.1 MS SQL in Active Directory
+    - [ ] 15.1.1 MS SQL Enumeration
+      - [ ] 15.1.1.1 Exercise
+    - [ ] 15.1.2 MS SQL Authentication
+      - [ ] 15.1.2.1 Exercises
+    - [ ] 15.1.3 UNC Path Injection
+      - [ ] 15.1.3.1 Exercises
+    - [ ] 15.1.4 Relay My Hash
+      - [ ] 15.1.4.1 Exercises
+   - [ ] 15.2 MS SQL Escalation
+    - [ ] 15.2.1 Privilege Escalation
+      - [ ] 15.2.1.1 Exercises
+    - [ ] 15.2.2 Getting Code Execution
+      - [ ] 15.2.2.1 Exercises
+    - [ ] 15.2.3 Custom Assemblies
+      - [ ] 15.2.3.1 Exercises
+  - [ ] 15.3 Linked SQL Servers
+    - [ ] 15.3.1 Follow the Link
+      - [ ] 15.3.1.1 Exercises
+      - [ ] 15.3.1.2 Extra Mile
+    - [ ] 15.3.2 Come Home To Me
+      - [ ] 15.3.2.1 Exercises
+      - [ ] 15.3.2.2 Extra Mile
+  - [ ] 15.4 Wrapping Up
+- [ ] 16 Active Directory Exploitation
+  - [ ] 16.1 AD Object Security Permissions
+    - [ ] 16.1.1 Object Permission Theory
+      - [ ] 16.1.1.1 Exercises
+    - [ ] 16.1.2 Abusing GenericAll
+      - [ ] 16.1.2.1 Exercises
+    - [ ] 16.1.3 Abusing WriteDACL
+      - [ ] 16.1.3.1 Exercises
+      - [ ] 16.1.3.2 Extra Mile
+  - [ ] 16.2 Kerberos Delegation
+    - [ ] 16.2.1 Unconstrained Delegation
+      - [ ] 16.2.1.1 Exercise
+    - [ ] 16.2.2 I Am a Domain Controller
+      - [ ] 16.2.2.1 Exercises
+    - [ ] 16.2.3 Constrained Delegation
+      - [ ] 16.2.3.1 Exercises
+    - [ ] 16.2.4 Resource-Based Constrained Delegation
+      - [ ] 16.2.4.1 Exercises
+  - [ ] 16.3 Active Directory Forest Theory
+    - [ ] 16.3.1 Active Directory Trust in a Forest
+    - [ ] 16.3.2 Enumeration in the Forest
+      - [ ] 16.3.2.1 Exercises
+  - [ ] 16.4 Burning Down the Forest
+    - [ ] 16.4.1 Owning the Forest with Extra SIDs
+      - [ ] 16.4.1.1 Exercise
+      - [ ] 16.4.1.2 Extra Mile
+    - [ ] 16.4.2 Owning the Forest with Printers
+      - [ ] 16.4.2.1 Exercises
+  - [ ] 16.5 Going Beyond the Forest
+    - [ ] 16.5.1 Active Directory Trust Between Forests
+    - [ ] 16.5.2 Enumeration Beyond the Forest
+      - [ ] 16.5.2.1 Exercises
+  - [ ] 16.6 Compromising an Additional Forest
+    - [ ] 16.6.1 Show Me Your Extra SID
+      - [ ] 16.6.1.1 Exercises
+    - [ ] 16.6.2 Linked SQL Servers in the Forest
+      - [ ] 16.6.2.1 Exercises
+      - [ ] 16.6.2.2 Extra Mile
+  - [ ] 16.7 Wrapping Up
+- [ ] 17 Combining the Pieces
+  - [ ] 17.1 Enumeration and Shell
+    - [ ] 17.1.1 Initial Enumeration
+      - [ ] 17.1.1.1 Exercises
+    - [ ] 17.1.2 Gaining an Initial Foothold
+      - [ ] 17.1.2.1 Exercises
+    - [ ] 17.1.3 Post Exploitation Enumeration
+      - [ ] 17.1.3.1 Exercises
+  - [ ] 17.2 Attacking Delegation
+    - [ ] 17.2.1 Privilege Escalation on web01
+      - [ ] 17.2.1.1 Exercises
+    - [ ] 17.2.2 Getting the Hash
+      - [ ] 17.2.2.1 Exercises
+    - [ ] 17.2.3 Delegate My Ticket
+      - [ ] 17.2.3.1 Exercises
+  - [ ] 17.3 Owning the Domain
+    - [ ] 17.3.1 Lateral Movement
+      - [ ] 17.3.1.1 Exercises
+    - [ ] 17.3.2 Becoming Domain Admin
+      - [ ] 17.3.2.1 Exercises
+      - [ ] 17.3.2.2 Extra Mile
+  - [ ] 17.4 Wrapping Up
+- [ ] 18 Trying Harder: The Labs
+  - [ ] 18.1 Real Life Simulations
+  - [ ] 18.2 Wrapping Up
