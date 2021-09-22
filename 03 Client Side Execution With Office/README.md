@@ -2,46 +2,46 @@
 
 - [ ] 03 Client Side Execution With Office
   - [ ] 03.1 Will You Be My Dropper
-    - [ ] 03.1.1 Staged vs. Non-Staged Payloads
-    - [ ] 03.1.2 Building Our Droppers
+    - [ ] 03.1.1 Staged vs. Non-Staged Payloads 🕐S
+    - [ ] 03.1.2 Building Our Droppers 🕐M
       - [ ] 03.1.2.1 Exercise
-    - [ ] 03.1.3 HTML Smuggling
+    - [ ] 03.1.3 HTML Smuggling 🕐M
       - [ ] 03.1.3.1 Exercises
   - [ ] 03.2 Phishing With Microsoft Office
-    - [ ] 03.2.1 Installing Microsoft Office
+    - [ ] 03.2.1 Installing Microsoft Office 🕐M
       - [ ] 03.2.1.1 Exercise
-    - [ ] 03.2.2 Introduction to VBA
+    - [ ] 03.2.2 Introduction to VBA 🕐M
       - [ ] 03.2.2.1 Exercises
-    - [ ] 03.2.3 Let PowerShell Help Us
+    - [ ] 03.2.3 Let PowerShell Help Us 🕐M
       - [ ] 03.2.3.1 Exercises
   - [ ] 03.3 Keeping Up Appearances
-    - [ ] 03.3.1 Phishing PreTexting
-    - [ ] 03.3.2 The Old Switcheroo
+    - [ ] 03.3.1 Phishing PreTexting 🕐S
+    - [ ] 03.3.2 The Old Switcheroo 🕐S
       - [ ] 03.3.2.1 Exercises
   - [ ] 03.4 Executing Shellcode in Word Memory
-    - [ ] 03.4.1 Calling Win32 APIs from VBA
+    - [ ] 03.4.1 Calling Win32 APIs from VBA 🕐M
       - [ ] 03.4.1.1 Exercises
-    - [ ] 03.4.2 VBA Shellcode Runner
+    - [ ] 03.4.2 VBA Shellcode Runner 🕐M
       - [ ] 03.4.2.1 Exercise
   - [ ] 03.5 PowerShell Shellcode Runner
-    - [ ] 03.5.1 Calling Win32 APIs from PowerShell
+    - [ ] 03.5.1 Calling Win32 APIs from PowerShell 🕐M
       - [ ] 03.5.1.1 Exercises
-    - [ ] 03.5.2 Porting Shellcode Runner to PowerShell
+    - [ ] 03.5.2 Porting Shellcode Runner to PowerShell 🕐L
       - [ ] 03.5.2.1 Exercises
   - [ ] 03.6 Keep That PowerShell in Memory
-    - [ ] 03.6.1 Add-Type Compilation
+    - [ ] 03.6.1 Add-Type Compilation 🕐L
       - [ ] 03.6.1.1 Exercises
-    - [ ] 03.6.2 Leveraging UnsafeNativeMethods
+    - [ ] 03.6.2 Leveraging UnsafeNativeMethods 🕐L
       - [ ] 03.6.2.1 Exercises
-    - [ ] 03.6.3 DelegateType Reflection
+    - [ ] 03.6.3 DelegateType Reflection 🕐L
       - [ ] 03.6.3.1 Exercises
-    - [ ] 03.6.4 Reflection Shellcode Runner in PowerShell
+    - [ ] 03.6.4 Reflection Shellcode Runner in PowerShell 🕐L
       - [ ] 03.6.4.1 Exercises
   - [ ] 03.7 Talking To The Proxy
-    - [ ] 03.7.1 PowerShell Proxy-Aware Communication
+    - [ ] 03.7.1 PowerShell Proxy-Aware Communication 🕐L
       - [ ] 03.7.1.1 Exercises
-    - [ ] 03.7.2 Fiddling With The User-Agent
+    - [ ] 03.7.2 Fiddling With The User-Agent 🕐M
       - [ ] 03.7.2.1 Exercises
-    - [ ] 03.7.3 Give Me A SYSTEM Proxy
+    - [ ] 03.7.3 Give Me A SYSTEM Proxy 🕐L
       - [ ] 03.7.3.1 Exercise
-  - [ ] 03.8 Wrapping Up
+  - [ ] 03.8 Wrapping Up 🕐S

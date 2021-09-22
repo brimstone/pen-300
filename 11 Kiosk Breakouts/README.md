@@ -2,25 +2,25 @@
 
 - [ ] 11 Kiosk Breakouts
   - [ ] 11.1 Kiosk Enumeration
-    - [ ] 11.1.1 Kiosk Browser Enumeration
+    - [ ] 11.1.1 Kiosk Browser Enumeration 🕐M
       - [ ] 11.1.1.1 Exercises
   - [ ] 11.2 Command Execution
-    - [ ] 11.2.1 Exploring the Filesystem
-    - [ ] 11.2.2 Leveraging Firefox Profiles
-    - [ ] 11.2.3 Enumerating System Information
-    - [ ] 11.2.4 Scratching the Surface
+    - [ ] 11.2.1 Exploring the Filesystem 🕐S
+    - [ ] 11.2.2 Leveraging Firefox Profiles 🕐M
+    - [ ] 11.2.3 Enumerating System Information 🕐M
+    - [ ] 11.2.4 Scratching the Surface 🕐M
       - [ ] 11.2.4.1 Exercises
       - [ ] 11.2.4.2 Extra Mile
   - [ ] 11.3 Post-Exploitation
-    - [ ] 11.3.1 Simulating an Interactive Shell
+    - [ ] 11.3.1 Simulating an Interactive Shell 🕐M
       - [ ] 11.3.1.1 Exercises
       - [ ] 11.3.1.2 Extra Mile
   - [ ] 11.4 Privilege Escalation
-    - [ ] 11.4.1 Thinking Outside the Box
-    - [ ] 11.4.2 Root Shell at the Top of the Hour
-    - [ ] 11.4.3 Getting Root Terminal Access
+    - [ ] 11.4.1 Thinking Outside the Box 🕐M
+    - [ ] 11.4.2 Root Shell at the Top of the Hour 🕐M
+    - [ ] 11.4.3 Getting Root Terminal Access 🕐M
       - [ ] 11.4.3.1 Exercises
   - [ ] 11.5 Windows Kiosk Breakout Techniques
-    - [ ] 11.5.1 Windows Kiosk Breakout Techniques
+    - [ ] 11.5.1 Windows Kiosk Breakout Techniques 🕐M
       - [ ] 11.5.1.1 Exercises
-  - [ ] 11.6 Wrapping Up
+  - [ ] 11.6 Wrapping Up 🕐S

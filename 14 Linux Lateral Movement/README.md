@@ -2,33 +2,33 @@
 
 - [ ] 14 Linux Lateral Movement
   - [ ] 14.1 Lateral Movement with SSH
-    - [ ] 14.1.1 SSH Keys
-    - [ ] 14.1.2 SSH Persistence
+    - [ ] 14.1.1 SSH Keys 🕐S
+    - [ ] 14.1.2 SSH Persistence 🕐S
       - [ ] 14.1.2.1 Exercises
-    - [ ] 14.1.3 SSH Hijacking with ControlMaster
-    - [ ] 14.1.4 SSH Hijacking Using SSH-Agent and SSH Agent Forwarding
+    - [ ] 14.1.3 SSH Hijacking with ControlMaster 🕐S
+    - [ ] 14.1.4 SSH Hijacking Using SSH-Agent and SSH Agent Forwarding 🕐S
       - [ ] 14.1.4.1 Exercises
   - [ ] 14.2 DevOps
-    - [ ] 14.2.01 Introduction to Ansible
-    - [ ] 14.2.02 Enumerating Ansible
-    - [ ] 14.2.03 Ad-hoc Commands
-    - [ ] 14.2.04 Ansible Playbooks
-    - [ ] 14.2.05 Exploiting Playbooks for Ansible Credentials
-    - [ ] 14.2.06 Weak Permissions on Ansible Playbooks
-    - [ ] 14.2.07 Sensitive Data Leakage via Ansible Modules
+    - [ ] 14.2.01 Introduction to Ansible 🕐S
+    - [ ] 14.2.02 Enumerating Ansible 🕐S
+    - [ ] 14.2.03 Ad-hoc Commands 🕐S
+    - [ ] 14.2.04 Ansible Playbooks 🕐S
+    - [ ] 14.2.05 Exploiting Playbooks for Ansible Credentials 🕐M
+    - [ ] 14.2.06 Weak Permissions on Ansible Playbooks 🕐M
+    - [ ] 14.2.07 Sensitive Data Leakage via Ansible Modules 🕐M
       - [ ] 14.2.07.1 Exercises
-    - [ ] 14.2.08 Introduction to Artifactory
-    - [ ] 14.2.09 Artifactory Enumeration
-    - [ ] 14.2.10 Compromising Artifactory Backups
-    - [ ] 14.2.11 Compromising Artifactory’s Database
-    - [ ] 14.2.12 Adding a Secondary Artifactory Admin Account
+    - [ ] 14.2.08 Introduction to Artifactory 🕐S
+    - [ ] 14.2.09 Artifactory Enumeration 🕐M
+    - [ ] 14.2.10 Compromising Artifactory Backups 🕐S
+    - [ ] 14.2.11 Compromising Artifactory’s Database 🕐S
+    - [ ] 14.2.12 Adding a Secondary Artifactory Admin Account 🕐M
       - [ ] 14.2.12.1 Exercises
   - [ ] 14.3 Kerberos on Linux
-    - [ ] 14.3.1 General Introduction to Kerberos on Linux
-    - [ ] 14.3.2 Stealing Keytab Files
+    - [ ] 14.3.1 General Introduction to Kerberos on Linux 🕐M
+    - [ ] 14.3.2 Stealing Keytab Files 🕐M
       - [ ] 14.3.2.1 Exercise
-    - [ ] 14.3.3 Attacking Using Credential Cache Files
-    - [ ] 14.3.4 Using Kerberos with Impacket
+    - [ ] 14.3.3 Attacking Using Credential Cache Files 🕐M
+    - [ ] 14.3.4 Using Kerberos with Impacket 🕐L
       - [ ] 14.3.4.1 Exercises
       - [ ] 14.3.4.2 Extra Mile
-  - [ ] 14.4 Wrapping Up
+  - [ ] 14.4 Wrapping Up 🕐S

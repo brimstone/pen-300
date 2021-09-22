@@ -1,36 +1,36 @@
 ## Syllabus
 
 - [ ] 06 Introduction to Antivirus Evasion
-  - [ ] 06.1 Antivirus Software Overview
-  - [ ] 06.2 Simulating the Target Environment
-  - [ ] 06.3 Locating Signatures in Files
+  - [ ] 06.1 Antivirus Software Overview 🕐S
+  - [ ] 06.2 Simulating the Target Environment 🕐S
+  - [ ] 06.3 Locating Signatures in Files 🕐S
       - [ ] 06.3.1.1 Exercise
   - [ ] 06.4 Bypassing Antivirus with Metasploit
-    - [ ] 06.4.1 Metasploit Encoders
+    - [ ] 06.4.1 Metasploit Encoders 🕐S
       - [ ] 06.4.1.1 Exercise
-    - [ ] 06.4.2 Metasploit Encryptors
+    - [ ] 06.4.2 Metasploit Encryptors 🕐M
       - [ ] 06.4.2.1 Exercises
   - [ ] 06.5 Bypassing Antivirus with C#
-    - [ ] 06.5.1 C# Shellcode Runner vs Antivirus
+    - [ ] 06.5.1 C# Shellcode Runner vs Antivirus 🕐M
       - [ ] 06.5.1.1 Exercises
-    - [ ] 06.5.2 Encrypting the C# Shellcode Runner
+    - [ ] 06.5.2 Encrypting the C# Shellcode Runner 🕐M
       - [ ] 06.5.2.1 Exercises
   - [ ] 06.6 Messing with Our Behavior
-    - [ ] 06.6.1 Simple Sleep Timers
+    - [ ] 06.6.1 Simple Sleep Timers 🕐S
       - [ ] 06.6.1.1 Exercises
-    - [ ] 06.6.2 Non-emulated APIs
+    - [ ] 06.6.2 Non-emulated APIs 🕐M
       - [ ] 06.6.2.1 Exercises
   - [ ] 06.7 Office Please Bypass Antivirus
-    - [ ] 06.7.1 Bypassing Antivirus in VBA
+    - [ ] 06.7.1 Bypassing Antivirus in VBA 🕐S
       - [ ] 06.7.1.1 Exercises
-    - [ ] 06.7.2 Stomping On Microsoft Word
+    - [ ] 06.7.2 Stomping On Microsoft Word 🕐S
       - [ ] 06.7.2.1 Exercises
   - [ ] 06.8 Hiding PowerShell Inside VBA
-    - [ ] 06.8.1 Detection of PowerShell Shellcode Runner
+    - [ ] 06.8.1 Detection of PowerShell Shellcode Runner 🕐M
       - [ ] 06.8.1.1 Exercises
-    - [ ] 06.8.2 Dechaining with WMI
+    - [ ] 06.8.2 Dechaining with WMI 🕐M
       - [ ] 06.8.2.1 Exercises
-    - [ ] 06.8.3 Obfuscating VBA
+    - [ ] 06.8.3 Obfuscating VBA 🕐M
       - [ ] 06.8.3.1 Exercises
       - [ ] 06.8.3.2 Extra Mile Exercise
-  - [ ] 06.9 Wrapping Up
+  - [ ] 06.9 Wrapping Up 🕐S

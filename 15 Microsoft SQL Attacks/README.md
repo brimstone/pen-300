@@ -2,26 +2,26 @@
 
 - [ ] 15 Microsoft SQL Attacks
   - [ ] 15.1 MS SQL in Active Directory
-    - [ ] 15.1.1 MS SQL Enumeration
+    - [ ] 15.1.1 MS SQL Enumeration 🕐M
       - [ ] 15.1.1.1 Exercise
-    - [ ] 15.1.2 MS SQL Authentication
+    - [ ] 15.1.2 MS SQL Authentication 🕐M
       - [ ] 15.1.2.1 Exercises
-    - [ ] 15.1.3 UNC Path Injection
+    - [ ] 15.1.3 UNC Path Injection 🕐M
       - [ ] 15.1.3.1 Exercises
-    - [ ] 15.1.4 Relay My Hash
+    - [ ] 15.1.4 Relay My Hash 🕐L
       - [ ] 15.1.4.1 Exercises
    - [ ] 15.2 MS SQL Escalation
-    - [ ] 15.2.1 Privilege Escalation
+    - [ ] 15.2.1 Privilege Escalation 🕐L
       - [ ] 15.2.1.1 Exercises
-    - [ ] 15.2.2 Getting Code Execution
+    - [ ] 15.2.2 Getting Code Execution 🕐L
       - [ ] 15.2.2.1 Exercises
-    - [ ] 15.2.3 Custom Assemblies
+    - [ ] 15.2.3 Custom Assemblies 🕐L
       - [ ] 15.2.3.1 Exercises
   - [ ] 15.3 Linked SQL Servers
-    - [ ] 15.3.1 Follow the Link
+    - [ ] 15.3.1 Follow the Link 🕐L
       - [ ] 15.3.1.1 Exercises
       - [ ] 15.3.1.2 Extra Mile
-    - [ ] 15.3.2 Come Home To Me
+    - [ ] 15.3.2 Come Home To Me 🕐L
       - [ ] 15.3.2.1 Exercises
       - [ ] 15.3.2.2 Extra Mile
-  - [ ] 15.4 Wrapping Up
+  - [ ] 15.4 Wrapping Up 🕐S

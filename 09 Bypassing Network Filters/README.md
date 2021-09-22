@@ -2,27 +2,27 @@
 
 - [ ] 09 Bypassing Network Filters
   - [ ] 09.1 DNS Filters
-    - [ ] 09.1.1 DNS Filters
+    - [ ] 09.1.1 DNS Filters 🕐S
       - [ ] 09.1.1.1 Exercises
-    - [ ] 09.1.2 Dealing with DNS Filters
+    - [ ] 09.1.2 Dealing with DNS Filters 🕐S
       - [ ] 09.1.2.1 Exercise
   - [ ] 09.2 Web Proxies
-    - [ ] 09.2.1 Bypassing Web Proxies
+    - [ ] 09.2.1 Bypassing Web Proxies 🕐S
       - [ ] 09.2.1.1 Exercises
   - [ ] 09.3 IDS and IPS Sensors
-    - [ ] 09.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates
+    - [ ] 09.3.1 Case Study: Bypassing Norton HIPS with Custom Certificates 🕐M
       - [ ] 09.3.1.1 Exercises
-  - [ ] 09.4 Full Packet Capture Devices
-  - [ ] 09.5 HTTPS Inspection
+  - [ ] 09.4 Full Packet Capture Devices 🕐M
+  - [ ] 09.5 HTTPS Inspection 🕐S
   - [ ] 09.6 Domain Fronting
-    - [ ] 09.6.1 Domain Fronting with Azure CDN
+    - [ ] 09.6.1 Domain Fronting with Azure CDN 🕐M
       - [ ] 09.6.1.1 Exercise
       - [ ] 09.6.1.2 Extra Mile
-    - [ ] 09.6.2 Domain Fronting in the Lab
+    - [ ] 09.6.2 Domain Fronting in the Lab 🕐M
       - [ ] 09.6.2.1 Exercises
       - [ ] 09.6.2.2 Extra Mile
   - [ ] 09.7 DNS Tunneling
-    - [ ] 09.7.1 How DNS Tunneling Works
-    - [ ] 09.7.2 DNS Tunneling with dnscat2
+    - [ ] 09.7.1 How DNS Tunneling Works 🕐S
+    - [ ] 09.7.2 DNS Tunneling with dnscat2 🕐S
       - [ ] 09.7.2.1 Exercises
-  - [ ] 09.8 Wrapping Up
+  - [ ] 09.8 Wrapping Up 🕐S
